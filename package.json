@@ -1,0 +1,12 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "Node practise project for authentication and authorization",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anuj Sharma",
+  "license": "ISC"
+}
